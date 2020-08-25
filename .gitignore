@@ -19,3 +19,7 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+
+# Sensitive information that developers get by registering third-party apis
+lib/src/com.sinyuk.scribedart.apis/sensitive
